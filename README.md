@@ -32,7 +32,7 @@ App was created in order to explore working with PyQt5 library. It also stores r
 - Elapsed time saved into .txt file to track your study hours
 
 <img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro.PNG" width="200px" height="340px" />
-![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/sessions.PNG)
+
 
 ## [Project 5: Youtube Downloader](https://github.com/viliam-gago/youtube_downloader)
 This app allows downloading YouTube content and extracting only audio if wanted. It's main benefits are simplicity and absence of any ads. App has very straightforward GUI, therefore it is easy to use - just paste the URL of desired YouTube content and press download button according to desired format. This little project also provided an enjoyable chance to refresh my knowledge of PyQt5 module.
@@ -42,4 +42,5 @@ This app allows downloading YouTube content and extracting only audio if wanted.
 - download .mp3 file (audio only)
 - download .mp4 file
 
-![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/ytdown.PNG)
+<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/ytdown.PNG" width="400px" height="200px" />
+
