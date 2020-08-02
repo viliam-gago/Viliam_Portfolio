@@ -30,7 +30,8 @@ App was created in order to explore working with PyQt5 library. It also stores r
 - Created user interface for easy usage with PyQt5 library
 - Implemented adjustable countdown timer
 - Elapsed time saved into .txt file to track your study hours
-<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro.PNG" width="200px" height="450px" />
+
+<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro.PNG" width="200px" height="380px" />
 ![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/sessions.PNG)
 
 ## [Project 5: Youtube Downloader](https://github.com/viliam-gago/youtube_downloader)
