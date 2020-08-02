@@ -8,7 +8,7 @@ The process of stock evaluation uses basic methods of value investing, which I t
 - Implemented an algorithm to calculate stock fundamentals
 - Use of visualization tools when suitable
 
-![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/fundamentals.PNG)
+![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/fundamentals.png)
 
 
 ## [Project 2: Election Scraper](https://github.com/viliam-gago/engeto_python_course_projects/tree/master/election_scrap)
@@ -18,7 +18,7 @@ Election scrap project provides a look into election results of each municipalit
 - Saved data into convinient format
 - Created summary for each party with respect to particular district, visually represented
 
-<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/scrap_project.PNG" width="650px" height="400px" />
+<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/scrap_project.png" width="650px" height="400px" />
 
 ## [Project 3: Black-Jack Game](https://github.com/viliam-gago/black_jack)
 Black-Jack in "text" format. Game provides multiplayer for more than two players and runs with respect to known Black-Jack rules as split and double down. It is convenient to use object-oriented programming when implementing this entertaining card game, and thus, it provides a great learning experience of this programming concept.
@@ -31,7 +31,7 @@ App was created in order to explore working with PyQt5 library. It also stores r
 - Implemented adjustable countdown timer
 - Elapsed time saved into .txt file to track your study hours
 
-<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro.PNG" width="200px" height="340px" />
+<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro.png" width="200px" height="340px" />
 
 
 ## [Project 5: Youtube Downloader](https://github.com/viliam-gago/youtube_downloader)
@@ -42,5 +42,5 @@ This app allows downloading YouTube content and extracting only audio if wanted.
 - download .mp3 file (audio only)
 - download .mp4 file
 
-<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/ytdown.PNG" width="350px" height="150px" />
+<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/ytdown.png" width="350px" height="150px" />
 
