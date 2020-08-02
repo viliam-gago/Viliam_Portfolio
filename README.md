@@ -8,6 +8,8 @@ The process of stock evaluation uses basic methods of value investing, which I t
 - Implemented an algorithm to calculate stock fundamentals
 - Use of visualization tools when suitable
 
+![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/fundamentals.PNG)
+
 
 ## [Project 2: Election Scraper](https://github.com/viliam-gago/engeto_python_course_projects/tree/master/election_scrap)
 Election scrap project provides a look into election results of each municipality in desired district. Results are total number of votes per each political party. Main tool used for the task above was Python Beautiful Soup library. Votes of each municipality are saved into .csv files and then utilized to visually more convenient shape by using Pandas and Matplotlib libraries
