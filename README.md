@@ -6,3 +6,35 @@ The process of stock evaluation uses basic methods of value investing, which I t
 - Created script to get historical data from quick.fs.net API
 - Utilized data to convenient format using Pandas DataFrames
 - Implemented an algorithm to calculate stock fundamentals
+- Use of visualization tools when suitable
+
+
+## [Project 2: Election Scraper](https://github.com/viliam-gago/engeto_python_course_projects/tree/master/election_scrap)
+Election scrap project provides a look into election results of each municipality in desired district. Results are total number of votes per each political party. Main tool used for the task above was Python Beautiful Soup library. Votes of each municipality are saved into .csv files and then utilized to visually more convenient shape by using Pandas and Matplotlib libraries
+
+- Scraped election results for each political party in every municipality in chosen district (www.volby.cz)
+- Saved data into convinient format
+- Created summary for each party with respect to particular district, visually represented
+
+
+## [Project 3: Black-Jack Game](https://github.com/viliam-gago/black_jack)
+Black-Jack in "text" format. Game provides multiplayer for more than two players and runs with respect to known Black-Jack rules as split and double down. It is convenient to use object-oriented programming when implementing this entertaining card game, and thus, it provides a great learning experience of this programming concept.
+
+
+## [Project 4: Pomodoro Timer](https://github.com/viliam-gago/pomodoro_timer)
+App was created in order to explore working with PyQt5 library. It also stores results in csv format to track your study discipline. Personaly - in the end, it proved itself to be quite useful tool - I use it on daily basis.
+
+- Created user interface for easy usage with PyQt5 library
+- Implemented adjustable countdown timer
+- Elapsed time saved into .txt file to track your study hours
+
+
+## [Project 5: Youtube Downloader](https://github.com/viliam-gago/youtube_downloader)
+This app allows downloading YouTube content and extracting only audio if wanted. It's main benefits are simplicity and absence of any ads. App has very straightforward GUI, therefore it is easy to use - just paste the URL of desired YouTube content and press download button according to desired format. This little project also provided an enjoyable chance to refresh my knowledge of PyQt5 module.
+
+Options:
+-download .mp3 file (audio only)
+-download .mp4 file
+
+You can also download whole playlist (either .mp3 / .mp4; ). In that case, copy URL containing whole YouTube playlist. This will download all items from playlist as multiple files.
+
