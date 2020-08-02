@@ -42,5 +42,5 @@ This app allows downloading YouTube content and extracting only audio if wanted.
 - download .mp3 file (audio only)
 - download .mp4 file
 
-<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/ytdown.PNG" width="400px" height="200px" />
+<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/ytdown.PNG" width="350px" height="130px" />
 
