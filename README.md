@@ -18,7 +18,7 @@ Election scrap project provides a look into election results of each municipalit
 - Saved data into convinient format
 - Created summary for each party with respect to particular district, visually represented
 
-<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/scrap_project.PNG" width="100px" height="100px" />
+<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/scrap_project.PNG" width="500px" height="300px" />
 
 ## [Project 3: Black-Jack Game](https://github.com/viliam-gago/black_jack)
 Black-Jack in "text" format. Game provides multiplayer for more than two players and runs with respect to known Black-Jack rules as split and double down. It is convenient to use object-oriented programming when implementing this entertaining card game, and thus, it provides a great learning experience of this programming concept.
