@@ -18,6 +18,7 @@ Election scrap project provides a look into election results of each municipalit
 - Saved data into convinient format
 - Created summary for each party with respect to particular district, visually represented
 
+![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/scrap_project.PNG)
 
 ## [Project 3: Black-Jack Game](https://github.com/viliam-gago/black_jack)
 Black-Jack in "text" format. Game provides multiplayer for more than two players and runs with respect to known Black-Jack rules as split and double down. It is convenient to use object-oriented programming when implementing this entertaining card game, and thus, it provides a great learning experience of this programming concept.
@@ -30,6 +31,8 @@ App was created in order to explore working with PyQt5 library. It also stores r
 - Implemented adjustable countdown timer
 - Elapsed time saved into .txt file to track your study hours
 
+![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro.PNG)
+![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/sessions.PNG)
 
 ## [Project 5: Youtube Downloader](https://github.com/viliam-gago/youtube_downloader)
 This app allows downloading YouTube content and extracting only audio if wanted. It's main benefits are simplicity and absence of any ads. App has very straightforward GUI, therefore it is easy to use - just paste the URL of desired YouTube content and press download button according to desired format. This little project also provided an enjoyable chance to refresh my knowledge of PyQt5 module.
@@ -38,3 +41,5 @@ This app allows downloading YouTube content and extracting only audio if wanted.
 - ads free solution
 - download .mp3 file (audio only)
 - download .mp4 file
+
+![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/ytdown.PNG)
