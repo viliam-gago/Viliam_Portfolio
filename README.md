@@ -14,7 +14,7 @@ Project workflow in points:
 <img src="https://github.com/viliam-gago/JustEatCycles_Analysis/blob/master/img/repo_pic.png" width="650px" height="400px" />
 
 ## [Project 2: Automated File Downloader](https://github.com/viliam-gago/automated_file_downloader)
-I created automated solution for multiple file extraction from particular server. This was my personal project I came up with at my job - in the end, even my colleagues started using the script and we were able to significantly reduce amount of time spent by tideous downloading files one by one.
+I created automated solution for multiple file extraction from particular server. This was a personal project I came up with at my workplace on my own initiative. In the end, even my colleagues started using the script and we were able to significantly reduce amount of time spent by tideous downloading files one by one.
 
 
 
