@@ -11,9 +11,6 @@ Project workflow in points:
 - Visualisation
 - Basic use of linear regression
 - Interaction with geographical data
-
-
-
 <img src="https://github.com/viliam-gago/JustEatCycles_Analysis/blob/master/img/repo_pic.png" width="650px" height="400px" />
 
 ## [Project 4: Stock Analyzer](https://github.com/viliam-gago/stock_analyzer)
