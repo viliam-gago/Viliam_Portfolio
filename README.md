@@ -1,6 +1,22 @@
-# Viliam_Portfolio
+# My Portfolio
 
-## [Project 1: Stock Analyzer](https://github.com/viliam-gago/stock_analyzer)
+## [Project 1: JustEatCycles Data Analysis](https://github.com/viliam-gago/JustEatCycles_Analysis)
+In this project, I analyzed the real world dataset of Just Eat Cycles company, providing bicycle rentals in Edinburgh. Data contains information about particular trips, their duration, bicycle stations, etc. 
+
+Technologies used: Python, Pandas, Matplotlib, Seaborn, gmaps library
+
+Project workflow in points:
+- Database accessing, joining tables from different resources
+- Data wrangling
+- Visualisation
+- Basic use of linear regression
+- Interaction with geographical data
+
+
+
+<img src="https://github.com/viliam-gago/JustEatCycles_Analysis/blob/master/img/repo_pic.png" width="650px" height="400px" />
+
+## [Project 4: Stock Analyzer](https://github.com/viliam-gago/stock_analyzer)
 The process of stock evaluation uses basic methods of value investing, which I tried to implement in Python algorithm. Use of Pandas library was very convenient in this case. In the end app offers quick calculation of many stock metrices, like debt ratios, intrinsic value, cashflow growth etc., requiring just the ticker symbol of particular stock. This project gave me new insights of Python modules, especially Pandas and served as a great learning experience.
 
 - Created script to get historical data from quick.fs.net API
@@ -10,15 +26,6 @@ The process of stock evaluation uses basic methods of value investing, which I t
 
 ![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/fundamentals.PNG)
 
-
-## [Project 2: Election Scraper](https://github.com/viliam-gago/engeto_python_course_projects/tree/master/election_scrap)
-Election scrap project provides a look into election results of each municipality in desired district. Results are total number of votes per each political party. Main tool used for the task above was Python Beautiful Soup library. Votes of each municipality are saved into .csv files and then utilized to visually more convenient shape by using Pandas and Matplotlib libraries
-
-- Scraped election results for each political party in every municipality in chosen district (https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
-- Saved data into convinient format
-- Created summary for each party with respect to particular district, visually represented
-
-<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/scrap_project.PNG" width="650px" height="400px" />
 
 ## [Project 3: Black-Jack Game](https://github.com/viliam-gago/black_jack)
 Black-Jack in "text" format. Game provides multiplayer for more than two players and runs with respect to known Black-Jack rules as split and double down. It is convenient to use object-oriented programming when implementing this entertaining card game, and thus, it provides a great learning experience of this programming concept.
