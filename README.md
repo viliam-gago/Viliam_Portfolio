@@ -16,6 +16,16 @@ Project workflow in points:
 ## [Project 2: Automated File Downloader](https://github.com/viliam-gago/automated_file_downloader)
 I created automated solution for multiple file extraction from particular server. This was a personal project I came up with at my workplace on my own initiative. In the end, even my colleagues started using the script and we were able to significantly reduce amount of time spent by tideous downloading files one by one.
 
+Technologies used: Python, BeautifulSoup, libraries used for threading and multiprocessing
+
+Features:
+- Downloading all files located in given project's folder from the server
+- Use of threading to speed up the downloading process
+- Simple GUI - no need to write any code for use
+- Runs from .exe file for easy & quick access
+
+![](https://github.com/viliam-gago/automated_file_downloader/blob/master/img/pic.png)
+
 
 
 ## [Project 4: Stock Analyzer](https://github.com/viliam-gago/stock_analyzer)
