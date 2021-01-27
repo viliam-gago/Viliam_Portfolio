@@ -50,11 +50,12 @@ This project was great exercise for getting hands dirty with NumPy library and t
 ![](https://github.com/viliam-gago/moving_least_squares/blob/master/img/comparison.png)
 
 ## [Project 5: Pomodoro Timer](https://github.com/viliam-gago/pomodoro_timer)
-App was created in order to explore working with PyQt5 library. It also stores results in csv format to track your study discipline. Personaly - in the end, it proved itself to be quite useful tool - I use it on daily basis.
+App was created in order to explore working with PyQt5 library. It also stores results in csv format to track your study discipline. Personaly - in the end, it proved itself to be quite useful tool - I used it quite a while to keep myself accountable during earlier days of my learning journey.
 
 - Created user interface for easy usage with PyQt5 library
 - Implemented adjustable countdown timer
-- Elapsed time saved into .txt file to track your study hours
+- Elapsed time saved into external file to track your study hours - you can plot how many hours you spent studying each day !
+
 
 <img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro2.png" width="1000px" height="400px" />
 
