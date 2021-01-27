@@ -56,5 +56,5 @@ App was created in order to explore working with PyQt5 library. It also stores r
 - Implemented adjustable countdown timer
 - Elapsed time saved into .txt file to track your study hours
 
-<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro2.png" width="600px" height="340px" />
+<img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro2.png" width="1000px" height="400px" />
 
