@@ -7,7 +7,7 @@ In this project, I analyzed the real world dataset of Just Eat Cycles company, p
 
 Technologies used: Python, Pandas, Matplotlib, Seaborn, gmaps library
 
-Project workflow in points:
+**Project workflow in points:**
 - **Database accessing, joining tables from different resources**
 - **Data wrangling**
 - **Visualisation**
@@ -20,11 +20,11 @@ I created automated solution for multiple file extraction from particular server
 
 Technologies used: Python, BeautifulSoup, libraries used for threading and multiprocessing
 
-Features:
-- Downloading all files located in given project's folder from the server
-- Use of threading to speed up the downloading process
-- Simple GUI - no need to write any code for use
-- Runs from .exe file for easy & quick access
+**Features:**
+- **Downloading all files located in given project's folder from the server**
+- **Use of threading to speed up the downloading process**
+- **Simple GUI - no need to write any code for use**
+- **Runs from .exe file for easy & quick access**
 
 ![](https://github.com/viliam-gago/automated_file_downloader/blob/master/img/pic.png)
 
@@ -33,11 +33,11 @@ Features:
 ## [Project 3: Stock Analyzer](https://github.com/viliam-gago/stock_analyzer)
 The process of stock evaluation uses basic methods of value investing, which I tried to implement in Python algorithm. Use of Pandas library was very convenient in this case. In the end app offers quick calculation of many stock metrices, like debt ratios, intrinsic value, cashflow growth etc., requiring just the ticker symbol of particular stock. This project gave me new insights of Python modules, especially Pandas and served as a great learning experience.
 
-Main keypoints:
-- Created script to get historical data from quick.fs.net API
-- Utilized data to convenient format using Pandas DataFrames
-- Implemented an algorithm to calculate stock fundamentals
-- Used of visualization tools when suitable
+**Main keypoints:**
+- **Created script to get historical data from quick.fs.net API**
+- **Utilized data to convenient format using Pandas DataFrames**
+- **Implemented an algorithm to calculate stock fundamentals**
+- **Used of visualization tools when suitable**
 
 ![](https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/fundamentals.PNG)
 
@@ -54,9 +54,10 @@ This project was great exercise for getting hands dirty with NumPy library and t
 ## [Project 5: Pomodoro Timer](https://github.com/viliam-gago/pomodoro_timer)
 App was created in order to explore working with PyQt5 library. It also stores results in csv format to track your study discipline. Personaly - in the end, it proved itself to be quite useful tool - I used it quite a while to keep myself accountable during earlier days of my learning journey.
 
-- Created user interface for easy usage with PyQt5 library
-- Implemented adjustable countdown timer
-- Elapsed time saved into external file to track your study hours - you can plot how many hours you spent studying each day !
+**Features:**
+- **Created user interface for easy usage with PyQt5 library**
+- **Implemented adjustable countdown timer**
+- **Elapsed time saved into external file to track your study hours - you can plot how many hours you spent studying each day !**
 
 
 <img src="https://github.com/viliam-gago/Viliam_Portfolio/blob/master/images/pomodoro2.png" width="1000px" height="400px" />
