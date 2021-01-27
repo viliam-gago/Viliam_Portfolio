@@ -8,11 +8,11 @@ In this project, I analyzed the real world dataset of Just Eat Cycles company, p
 Technologies used: Python, Pandas, Matplotlib, Seaborn, gmaps library
 
 Project workflow in points:
-- Database accessing, joining tables from different resources
-- Data wrangling
-- Visualisation
-- Basic use of linear regression
-- Interaction with geographical data
+- **Database accessing, joining tables from different resources**
+- **Data wrangling**
+- **Visualisation**
+- **Basic use of linear regression**
+- **Interaction with geographical data**
 <img src="https://github.com/viliam-gago/JustEatCycles_Analysis/blob/master/img/repo_pic.png" width="650px" height="400px" />
 
 ## [Project 2: Automated File Downloader](https://github.com/viliam-gago/automated_file_downloader)
