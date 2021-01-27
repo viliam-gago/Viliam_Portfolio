@@ -1,6 +1,6 @@
 # My Portfolio
 
-This portfolio contains a few examples of my personal projects. Please feel free to take a look on another results of work I published in [other repositories](https://github.com/viliam-gago?tab=repositories), in case of further interest.
+This portfolio contains a few examples of my personal projects. Please feel free to take a look on results of work I published in [other repositories](https://github.com/viliam-gago?tab=repositories), in case of further interest.
 
 ## [Project 1: JustEatCycles Data Analysis](https://github.com/viliam-gago/JustEatCycles_Analysis)
 In this project, I analyzed the real world dataset of Just Eat Cycles company, providing bicycle rentals in Edinburgh. Data contains information about particular trips, their duration, bicycle stations, etc. 
