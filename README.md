@@ -43,7 +43,7 @@ The process of stock evaluation uses basic methods of value investing, which I t
 
 
 ## [Project 4: Moving-Least-Squares Algorithm](https://github.com/viliam-gago/moving_least_squares)
-I took this project as a voluntary work at my university during summer holiday. We dealt with problem of fitting a 3D surface on datapoints measured during experiment. Main goal was to implement slightly more advanced version of commonly used Least-Squares algorithm - Moving-Least-Squares. The main idea is to calculate the approximation of each point based just on the measured datapoints in it's "close neighborhood". 
+I took this project as a voluntary work at my university during summer holiday. We dealt with problem of fitting a 3D surface on datapoints measured during experiment. Main goal was to implement slightly more advanced version of commonly used Ordinary-Least-Squares algorithm (OLS) - Moving-Least-Squares (MLS). The main idea is to calculate the approximation of each point based just on the measured datapoints in it's "close neighborhood". 
 
 Although I didn't get the algorithm working sufficiently for larger datasets for three-dimensional dataset, the 2D solution works fine. Better performance could be achieved by use of proper vectorization of the code.
 
