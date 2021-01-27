@@ -7,7 +7,7 @@ In this project, I analyzed the real world dataset of Just Eat Cycles company, p
 
 Technologies used: Python, Pandas, Matplotlib, Seaborn, gmaps library
 
-**Project workflow in points:**
+**Project workflow in keypoints:**
 - **Database accessing, joining tables from different resources**
 - **Data wrangling**
 - **Visualisation**
